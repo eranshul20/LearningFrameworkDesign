@@ -37,6 +37,7 @@ public class RegisterPage {
 	private final By logoutLink = By.linkText("Logout");
 
 	private final By registerLink = By.linkText("Register");
+	private final By demoLink = By.linkText("DemoLink to check git changes");
 
 	
 	//create a public method which will use above locators to fill the register form
